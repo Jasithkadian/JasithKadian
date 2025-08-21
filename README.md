@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Jasith Kadian  <br><br>🎓 Student at **Calcutta University, Greater Noida** (CSE – AI/ML)  <br>📖 Also pursuing **Data Science & ML (DSNML)** at **IIT Guwahati**  <br>💻 Interests: AI, ML, DL, NLP, Data Science, Computer Vision  <br>🛰️ Former Intern at **BEL, Ghaziabad** – worked on AI-driven systems & data pipelines  <br>⚡ Skills: Python, C++, SQL | TensorFlow, PyTorch, Scikit-learn | Pandas, NumPy, Matplotlib  <br>🚀 Passionate about building intelligent systems and solving problems with data
+Hi, I'm Jasith Kadian  <br><br>🎓 Student at **Galgotias University, Greater Noida** (CSE – AI/ML)  <br>📖 Also pursuing **Data Science & ML (DS & ML)** at **IIT Guwahati**  <br>💻 Interests: AI, ML, DL, NLP, Data Science, Computer Vision  <br>🛰️ Former Intern at **BEL, Ghaziabad** – worked on AI-driven systems & data pipelines  <br>⚡ Skills: Python, C++, SQL | TensorFlow, PyTorch, Scikit-learn | Pandas, NumPy, Matplotlib  <br>🚀 Passionate about building intelligent systems and solving problems with data
 
 
 ## 🌐 Socials:
